@@ -4,6 +4,8 @@
 
 Compared to other trip apps like TripAdvisor, Caltrip not only lists interesting destinations but also allows users to connect with other Calvin students who can provide or request any needs the planned trip requires(i.e. transportation). As our target market is Calvin University, the users will be able to sign up and log in with their Calvin email address. 
 
+#UI Model
+
 ## Team Members
 
 * Samuel Haileselassie
