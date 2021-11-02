@@ -7,7 +7,7 @@ Compared to other trip apps like TripAdvisor, Caltrip not only lists interesting
 ### [UI Model](https://github.com/calvin-cs262-fall2021-teamC/CalTrip-project/blob/main/UI_model.md)
 
 
-### [Domain Model](https://github.com/calvin-cs262-fall2021-teamC/CalTrip-project/blob/main/domain_model_2.0.md)
+### [Domain Model](https://github.com/calvin-cs262-fall2021-teamC/CalTrip-project/blob/main/domain_model.md)
 
 
 ### [App Logo](https://github.com/calvin-cs262-fall2021-teamC/CalTrip-project/blob/main/app_logo.md)
