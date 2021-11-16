@@ -13,6 +13,7 @@ Compared to other trip apps like TripAdvisor, Caltrip not only lists interesting
 ### [App Logo](https://github.com/calvin-cs262-fall2021-teamC/CalTrip-project/blob/main/app_logo.md)
 
 
+### [Presentation] (https://docs.google.com/presentation/d/1m0fhwzRCH2deaIklPpaPYZl2KVzzBHF-Wcmb4jLs71s/edit#slide=id.p)
 
 ## Team Members
 
