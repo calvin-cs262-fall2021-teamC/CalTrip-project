@@ -15,6 +15,9 @@ Compared to other trip apps like TripAdvisor, Caltrip not only lists interesting
 
 ### [Presentation](https://docs.google.com/presentation/d/1m0fhwzRCH2deaIklPpaPYZl2KVzzBHF-Wcmb4jLs71s/edit#slide=id.p)
 
+
+### [Usability Test](https://docs.google.com/document/d/1m1TJBBxSKUORnxjMih-M86Kb2B2Kdj_5AiPqRZ7178g/edit?usp=sharing)
+
 ## Team Members
 
 * Samuel Haileselassie
